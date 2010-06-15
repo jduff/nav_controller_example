@@ -1,0 +1,152 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* nav_controller */ = {
+		activeExec = 0;
+		executables = (
+			23360C14114709870097E8B5 /* nav_controller */,
+		);
+	};
+	23360C14114709870097E8B5 /* nav_controller */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = nav_controller;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23360C2A114709930097E8B5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23360C2B114709930097E8B5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23360C3411470BC90097E8B5 /* TableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 481}}";
+			sepNavSelRange = "{102, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	23360C3511470BC90097E8B5 /* TableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 1079}}";
+			sepNavSelRange = "{435, 14}";
+			sepNavVisRange = "{0, 960}";
+		};
+	};
+	23360C5D11472F040097E8B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23360C3511470BC90097E8B5 /* TableViewController.m */;
+		name = "TableViewController.m: 17";
+		rLen = 14;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	23360C5E11472F040097E8B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23360C3411470BC90097E8B5 /* TableViewController.h */;
+		name = "TableViewController.h: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	23360C5F11472F040097E8B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23360C3411470BC90097E8B5 /* TableViewController.h */;
+		name = "TableViewController.h: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	23D77F2C11C799B200942861 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23360C3411470BC90097E8B5 /* TableViewController.h */;
+		name = "TableViewController.h: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23360C14114709870097E8B5 /* nav_controller */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* nav_controller */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* nav_controller */,
+		);
+		codeSenseManager = 23360C2B114709930097E8B5 /* Code sense */;
+		executables = (
+			23360C14114709870097E8B5 /* nav_controller */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					657,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298293660;
+			PBXWorkspaceStateSaveDate = 298293660;
+		};
+		perUserProjectItems = {
+			23360C5D11472F040097E8B5 = 23360C5D11472F040097E8B5 /* PBXTextBookmark */;
+			23360C5E11472F040097E8B5 = 23360C5E11472F040097E8B5 /* PBXTextBookmark */;
+			23360C5F11472F040097E8B5 = 23360C5F11472F040097E8B5 /* PBXTextBookmark */;
+			23D77F2C11C799B200942861 /* PBXTextBookmark */ = 23D77F2C11C799B200942861 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23360C2A114709930097E8B5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

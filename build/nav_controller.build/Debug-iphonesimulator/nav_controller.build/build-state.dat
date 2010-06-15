@@ -1,0 +1,313 @@
+Tnav_controller
+v7
+r0
+t298329368.451989
+cCheck dependencies
+cProcessInfoPlistFile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/Info.plist nav_controller-Info.plist
+cCompileXIB /Users/johnduff/development/workspace/nav_controller/MainWindow.xib
+cCompileXIB /Users/johnduff/development/workspace/nav_controller/SecondView.xib
+cCompileXIB /Users/johnduff/development/workspace/nav_controller/TableViewController.xib
+cProcessPCH /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch.gch nav_controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/main.o /Users/johnduff/development/workspace/nav_controller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controllerAppDelegate.o /Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/FirstViewController.o /Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o /Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller normal i386
+cGenerateDSYMFile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app.dSYM /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller
+cTouch /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AC8EB6300000000000000EE
+t1254681443
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m
+c000000004B96D6E9000000000000083C
+t1268176617
+s2108
+i"TableViewController.h"
+i"FirstViewController.h"
+
+N/Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.h
+c000000004B96D20700000000000000EF
+t1268175367
+s239
+i<UIKit/UIKit.h>
+
+N/Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m
+c000000004B96D20700000000000005B4
+t1268175367
+s1460
+i"FirstViewController.h"
+
+N/Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.h
+c000000004B96D20700000000000001EC
+t1268175367
+s492
+i<UIKit/UIKit.h>
+
+N/Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m
+c000000004B96D20700000000000003D4
+t1268175367
+s980
+i"nav_controllerAppDelegate.h"
+
+N/Users/johnduff/development/workspace/nav_controller/MainWindow.xib
+c000000004C176591000000000000D2B4
+t1276601745
+s53940
+
+N/Users/johnduff/development/workspace/nav_controller/SecondView.xib
+c000000004B96D20700000000000022F6
+t1268175367
+s8950
+
+N/Users/johnduff/development/workspace/nav_controller/TableViewController.h
+c000000004B96D44900000000000000F4
+t1268175945
+s244
+i<UIKit/UIKit.h>
+
+N/Users/johnduff/development/workspace/nav_controller/TableViewController.m
+c000000004B96D4490000000000001097
+t1268175945
+s4247
+i"TableViewController.h"
+
+N/Users/johnduff/development/workspace/nav_controller/TableViewController.xib
+c000000004B96D4490000000000001C84
+t1268175945
+s7300
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app
+t1276601757
+s272
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app.dSYM
+t1276600876
+s102
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/Info.plist
+t1268175580
+s590
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/MainWindow.nib
+t1276601757
+s4734
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/PkgInfo
+t1268175580
+s8
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/SecondView.nib
+t1268175581
+s1709
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/TableViewController.nib
+t1268176014
+s984
+
+N/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller
+t1276600876
+s21792
+
+N/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/FirstViewController.o
+t1268175583
+s29928
+
+N/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o
+t1276600874
+s35840
+
+N/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/main.o
+t1268175583
+s5972
+
+N/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controller.LinkFileList
+c000000004B96D48E000000000000028B
+t1268176014
+s651
+
+N/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controllerAppDelegate.o
+t1268175583
+s41012
+
+N/Users/johnduff/development/workspace/nav_controller/main.m
+c000000004B96D207000000000000016A
+t1268175367
+s362
+i<UIKit/UIKit.h>
+
+N/Users/johnduff/development/workspace/nav_controller/nav_controller_Prefix.pch
+c000000004B96D20700000000000000C5
+t1268175367
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch.gch
+t1268175583
+s13034960
+
+Nnav_controller-Info.plist
+c000000004B96D207000000000000038D
+t1268175367
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298329368#298329368#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/FirstViewController.o /Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289868383.262911
+e289868383.333772
+r1
+xCompileC
+xbuild/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/FirstViewController.o
+x/Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m289868383#289868383#0(0"0(0#0#82"/Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m4300882208#2189"    cd /Users/johnduff/development/workspace/nav_controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-generated-files.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-own-target-headers.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-all-target-headers.hmap -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-project-headers.hmap -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -I/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/include -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources/i386 -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources -include /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch -c /Users/johnduff/development/workspace/nav_controller/Classes/FirstViewController.m -o /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o /Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298293668.333548
+e298293674.758034
+r1
+xCompileC
+xbuild/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o
+x/Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m298293668#298293674#0(0"0(0#0#85"/Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m3415245162579979264#2192"    cd /Users/johnduff/development/workspace/nav_controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-generated-files.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-own-target-headers.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-all-target-headers.hmap -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-project-headers.hmap -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -I/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/include -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources/i386 -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources -include /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch -c /Users/johnduff/development/workspace/nav_controller/Classes/../TableViewController.m -o /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o0#
+
+CCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/TableViewController.o /Users/johnduff/development/workspace/nav_controller/TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/main.o /Users/johnduff/development/workspace/nav_controller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289868383.147195
+e289868383.262772
+r1
+xCompileC
+xbuild/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/main.o
+x/Users/johnduff/development/workspace/nav_controller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/johnduff/development/workspace/nav_controller/main.m289868383#289868383#0(0"0(0#0#59"/Users/johnduff/development/workspace/nav_controller/main.m4300882208#2151"    cd /Users/johnduff/development/workspace/nav_controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-generated-files.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-own-target-headers.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-all-target-headers.hmap -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-project-headers.hmap -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -I/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/include -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources/i386 -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources -include /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch -c /Users/johnduff/development/workspace/nav_controller/main.m -o /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/main.o0#
+
+CCompileC build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controllerAppDelegate.o /Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289868383.148534
+e289868383.281117
+r1
+xCompileC
+xbuild/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controllerAppDelegate.o
+x/Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m289868383#289868383#0(0"0(0#0#88"/Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m4300882208#2201"    cd /Users/johnduff/development/workspace/nav_controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-generated-files.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-own-target-headers.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-all-target-headers.hmap -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-project-headers.hmap -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -I/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/include -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources/i386 -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources -include /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch -c /Users/johnduff/development/workspace/nav_controller/Classes/nav_controllerAppDelegate.m -o /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controllerAppDelegate.o0#
+
+CCompileXIB /Users/johnduff/development/workspace/nav_controller/MainWindow.xib
+s298294555.136169
+e298294557.881227
+r1
+xCompileXIB
+x/Users/johnduff/development/workspace/nav_controller/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298294555#298294557#0(0"0(0#0#67"/Users/johnduff/development/workspace/nav_controller/MainWindow.xib4300882208#529"    cd /Users/johnduff/development/workspace/nav_controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/MainWindow.nib /Users/johnduff/development/workspace/nav_controller/MainWindow.xib0#
+
+CCompileXIB /Users/johnduff/development/workspace/nav_controller/SecondView.xib
+s289868380.762221
+e289868381.905552
+r1
+xCompileXIB
+x/Users/johnduff/development/workspace/nav_controller/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib289868380#289868381#0(0"0(0#0#67"/Users/johnduff/development/workspace/nav_controller/SecondView.xib4300882208#529"    cd /Users/johnduff/development/workspace/nav_controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/SecondView.nib /Users/johnduff/development/workspace/nav_controller/SecondView.xib0#
+
+CCompileXIB /Users/johnduff/development/workspace/nav_controller/TableViewController.xib
+s289868814.470420
+e289868814.732568
+r1
+xCompileXIB
+x/Users/johnduff/development/workspace/nav_controller/TableViewController.xib
+lSLF07#2@34"CompileXIB TableViewController.xib289868814#289868814#0(0"0(0#0#76"/Users/johnduff/development/workspace/nav_controller/TableViewController.xib4300882208#547"    cd /Users/johnduff/development/workspace/nav_controller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/TableViewController.nib /Users/johnduff/development/workspace/nav_controller/TableViewController.xib0#
+
+CGenerateDSYMFile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app.dSYM /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller
+s298293676.232721
+e298293676.768949
+r1
+xGenerateDSYMFile
+x/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app.dSYM
+x/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/nav_controller.app.dSYM build/Debug-iphonesimulator/nav_controller.app/nav_controller298293676#298293676#0(0"0(0#0#114"/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller4300882208#446"    cd /Users/johnduff/development/workspace/nav_controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller -o /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app.dSYM0#
+
+CLd /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller normal i386
+s298293674.758308
+e298293676.232606
+r1
+xLd
+x/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller
+xnormal
+xi386
+lSLF07#2@119"Link /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller298293674#298293676#0(0"0(0#0#0"4300882208#967"    cd /Users/johnduff/development/workspace/nav_controller    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -filelist /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/Objects-normal/i386/nav_controller.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/nav_controller0#
+
+CProcessInfoPlistFile /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/Info.plist nav_controller-Info.plist
+s289868380.443625
+e289868380.711108
+r1
+xProcessInfoPlistFile
+x/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/Info.plist
+xnav_controller-Info.plist
+lSLF07#2@33"Process nav_controller-Info.plist289868380#289868380#0(0"0(0#0#78"/Users/johnduff/development/workspace/nav_controller/nav_controller-Info.plist4300882208#542"    cd /Users/johnduff/development/workspace/nav_controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility nav_controller-Info.plist -genpkginfo /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app/Info.plist0#
+
+CProcessPCH /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch.gch nav_controller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289868381.905683
+e289868383.147022
+r1
+xProcessPCH
+x/var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch.gch
+xnav_controller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile nav_controller_Prefix.pch289868381#289868383#0(0"0(0#0#78"/Users/johnduff/development/workspace/nav_controller/nav_controller_Prefix.pch4300882208#2022"    cd /Users/johnduff/development/workspace/nav_controller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-generated-files.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-own-target-headers.hmap -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-all-target-headers.hmap -iquote /Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/nav_controller-project-headers.hmap -F/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator -I/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/include -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources/i386 -I/Users/johnduff/development/workspace/nav_controller/build/nav_controller.build/Debug-iphonesimulator/nav_controller.build/DerivedSources -c /Users/johnduff/development/workspace/nav_controller/nav_controller_Prefix.pch -o /var/folders/Hs/HsJafHFYHGuf7iGvOntbck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nav_controller_Prefix-fvqqnzeuxfpulugilevqulnkltvc/nav_controller_Prefix.pch.gch0#
+
+CTouch /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app
+s298294557.881930
+e298294557.962132
+r1
+xTouch
+x/Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app
+lSLF07#2@105"Touch /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app298294557#298294557#0(0"0(0#0#0"4300882208#313"    cd /Users/johnduff/development/workspace/nav_controller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/johnduff/development/workspace/nav_controller/build/Debug-iphonesimulator/nav_controller.app0#
+
